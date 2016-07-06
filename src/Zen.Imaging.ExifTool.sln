@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen.Imaging.ExifTool", "Zen.Imaging.ExifTool\Zen.Imaging.ExifTool.csproj", "{D5211109-CEAB-4138-A173-52C84512A7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen.Imaging.ExifTool.Tests", "Zen.Imaging.ExifTool.Tests\Zen.Imaging.ExifTool.Tests.csproj", "{3BB55FBE-F8FF-4940-91D9-0C7A9558F850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5211109-CEAB-4138-A173-52C84512A7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5211109-CEAB-4138-A173-52C84512A7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5211109-CEAB-4138-A173-52C84512A7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5211109-CEAB-4138-A173-52C84512A7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB55FBE-F8FF-4940-91D9-0C7A9558F850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB55FBE-F8FF-4940-91D9-0C7A9558F850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB55FBE-F8FF-4940-91D9-0C7A9558F850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB55FBE-F8FF-4940-91D9-0C7A9558F850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
